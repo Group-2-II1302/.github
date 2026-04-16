@@ -17,12 +17,12 @@ A low-cost, expandable cloud-based IoT shelf system: ShelfAware, which is design
 | -------- | ------------------------------------------------------------------------- |
 | Frontend | [SvelteKit](https://svelte.dev/docs/kit/introduction),  TypeScript        |
 | Backend  |                                                                           |
-| IoT      | Raspberry Pi 4 Model B, SEN0296 Force Sensors,Analog-to-Digital Converter |
+| IoT      | Raspberry Pi 4 Model B, SEN0296 Force Sensors, Analog-to-Digital Converter |
 
 ## Architecture
 
-![Hardware Architecture](https://github.com/Group-2-II1302/Documentation/blob/main/HardwareAbstractionLayer_Group2.pdf)
-![System Architecture](https://github.com/Group-2-II1302/Documentation/blob/main/System%20Architecture%20-%20Group%202.pdf)
+![Hardware Architecture](../HardwareAbstractionLayer_Group2.pdf)
+![System Architecture](../System Architecture - Group 2.pdf)
 
 ## Quick Links
 
