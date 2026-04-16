@@ -35,9 +35,9 @@ A low-cost, expandable cloud-based IoT shelf system: ShelfAware, which is design
 | Name                   | GitHub                                                 | Role(s)                                      |
 | ---------------------- | ------------------------------------------------------ | -------------------------------------------- |
 | Geoanna Maria Dahore   | [@GD-lost-in-code](https://github.com/GD-lost-in-code) | Product Owner, Frontend Dev, Floating point  |
-| Emanuel Diktonius      |                                                        | Scrum master, Backend dev                    |
-| Furkan Erdogan         |                                                        | IoT, Hardware                                |
-| Christopher Johansson  |                                                        | IoT, Hardware                                |
-| Melissa Kryou          |                                                        | Frontend Dev                                 |
-| Araceli Prieto Gallego |                                                        | Frontend Dev                                 |
-| Kai Nguyen             |                                                        | Backend Lead, Cloud                          |
+| Emanuel Diktonius      | [@EDmatrix1](https://github.com/EDmatrix1)             | Scrum master, Backend dev                    |
+| Furkan Erdogan         | [@erdo1845](https://github.com/erdo1845)               | IoT, Hardware                                |
+| Christopher Johansson  | [@shinimasen](https://github.com/shinimasen)           | IoT, Hardware                                |
+| Melissa Kryou          | [@mkryou](https://github.com/mkryou)                   | Frontend Dev                                 |
+| Araceli Prieto Gallego | [@arapg](https://github.com/arapg)                     | Frontend Dev                                 |
+| Kai Nguyen             | [@kaidev04](https://github.com/kaidev04)               | Backend Lead, Cloud                          |
