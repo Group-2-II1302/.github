@@ -21,8 +21,8 @@ A low-cost, expandable cloud-based IoT shelf system: ShelfAware, which is design
 
 ## Architecture
 
-![Hardware Architecture](../HardwareAbstractionLayer_Group2.pdf)
-![System Architecture](../System Architecture - Group 2.pdf)
+![Hardware Architecture](../docs/HardwareAbstractionLayer_Group2.pdf)
+![System Architecture](../docs/System%20Architecture%20-%20Group%202.pdf)
 
 ## Quick Links
 
