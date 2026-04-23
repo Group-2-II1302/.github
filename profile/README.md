@@ -8,15 +8,16 @@ A low-cost, expandable cloud-based IoT shelf system: ShelfAware, which is design
 
 | Repo                                                              | Description                                                               |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [ShelfAware](https://github.com/Group-2-II1302/ShelfAware)        | Backend server, API, and web dashboard                                    |
-| [Shelaware-IoT](https://github.com/Group-2-II1302/ShelfAware-IoT) | Raspberry Pi 4 Model B, SEN0296 Force Sensors,Analog-to-Digital Converter |
+| [ShelfAware](https://github.com/Group-2-II1302/ShelfAware)                 | SvelteKit web app / dashboard                                             |
+| [ShelfAware-Backend](https://github.com/Group-2-II1302/ShelfAware-Backend) | Cloudflare Worker (Hono) ingesting Pi telemetry into Supabase             |
+| [Shelfaware-IoT](https://github.com/Group-2-II1302/ShelfAware-IoT)         | Raspberry Pi 4 Model B, SEN0296 Force Sensors,Analog-to-Digital Converter |
 
 ## Tech Stack
 
 | Layer    | Stack                                                                     |
 | -------- | ------------------------------------------------------------------------- |
 | Frontend | [SvelteKit](https://svelte.dev/docs/kit/introduction),  TypeScript        |
-| Backend  |                                                                           |
+| Backend  | [Cloudflare Workers](https://developers.cloudflare.com/workers/), [Hono](https://hono.dev/), TypeScript |
 | IoT      | Raspberry Pi 4 Model B, SEN0296 Force Sensors, Analog-to-Digital Converter |
 
 ## Architecture
